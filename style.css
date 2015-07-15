@@ -1,0 +1,167 @@
+
+.container-fluid {
+  padding-bottom: 15px;
+  background-color: #1F1F1F;
+}
+.navbar-header {
+  padding-left: 40px;
+}
+.nav navbar-nav {
+  padding-left: 300px;
+}
+.navmar {
+  margin-bottom: 0px;
+  border-width: 0px;
+}
+.aside {
+  padding-left: 30px;
+}
+.headlist ul {
+  padding-left: 15%;
+}
+.trailerlist {
+  display: inline;
+}
+.frontpic figcaption {
+  padding-right: 85px;
+  text-align: center;
+}
+.wh {
+  color: white !important;
+}
+.firstpart {
+  padding-bottom: 40px;
+  padding-top: 30px;
+  color:white;
+  background-color: #232323;
+}
+.movieday {
+  color:#4A799F;
+}
+.brief {
+  margin-bottom: 
+  background-color: #1A1A1A;
+  margin-top: 20px;
+  padding-top: 10px;
+}
+.metallicaimages a {
+  color: white;
+}
+.metallicaimages fig {
+  width: 200px;
+  border-style: solid;
+  border-width:10px;
+  border-color: #181617;
+}
+.secondpart {
+  padding-bottom: 40px;
+  padding-top: 30px;
+}
+
+.name {
+  padding-bottom: 25px;
+  padding-left: 160px;
+}
+.seeall {
+  padding-left: 175px;
+}
+
+.moviesodm {
+  padding-left: 165px;
+  padding-right: 144px;
+}
+.secondpart a {
+  color:#4A799F;
+}
+.thirdpart {
+  padding-left: 63px;
+  padding-right: 7px;
+  padding-top: 40px;
+  background-color: #EFEFEF;
+}
+.dreamworks {
+  padding-left: 120px;
+  padding-bottom: 40px;
+}
+.jurors {
+  padding-left: 120px;
+  padding-bottom: 40px;
+}
+.both {
+  padding-left: 105px;
+}
+.sandman {
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color:darkgray;
+  margin-bottom: 60px;
+  background-color: white;
+}
+.entersandman {
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color:darkgray;
+  margin-bottom: 60px;
+  background-color: white;
+  
+}
+.sandmanimg img  {
+  width: 100%;
+}
+.entersandmanimg img  {
+ width: 100%; 
+}
+.panabaker {
+  padding-left: 116px;
+  padding-bottom: 50px;
+}
+.motd {
+  padding-bottom: 20px;
+  padding-left: 106px;
+  padding-right: 144px;
+}
+.fantastic {
+  padding-bottom: 40px;
+}
+.rome {
+  padding-bottom: 40px;
+}
+.latestnews {
+  padding-bottom: 20px;
+}
+.thirdpart h4 {
+  color:#4A799F;
+}
+.footer {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  color:white;
+  background-color: #1B1B1B;
+}
+
+.footer li {
+  border-bottom-style: solid;;
+  border-bottom-width:1px;
+  padding-bottom: 10px;
+}
+.footer li a {  
+  color:white;
+}
+.footer h5 {
+  color:#4A799F;
+}
+.footer ul{
+  padding-left:0px;
+}
+.social {
+  font-size:10px;
+}
+.social img {
+  padding-bottom: 20px;
+}
+.social ul {
+  padding-top: 20px;
+}
+.social li {
+  display: inline;
+}
